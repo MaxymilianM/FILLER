@@ -3,5 +3,5 @@ Mini-game Filler. The concept is simple: two players gain points by placing on a
 
 To start the game you need to compile all files (use "make") and write this command in terminal:
 ./filler_vm -f ./resources/maps/map02 -p1 ./resources/players/mminenko.filler -p2 ./resources/players/carli.filler.
-https://image.freepik.com/free-psd/no-translate-detected_1297-170.jpg
+
 If you want visualized it add "| ./visual/visualizer" at the end.
